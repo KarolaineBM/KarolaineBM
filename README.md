@@ -19,3 +19,4 @@
 </div>
 
 ![Snake animation](https://github.com/KarolaineBM/KarolaineBM/blob/output/github-contribution-grid-snake.svg)
+
