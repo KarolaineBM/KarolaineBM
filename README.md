@@ -1,4 +1,4 @@
-## Olá! Eu sou a Karolaine Barros
+## Olá!
 
 - 🔭 Hoje trabalhao com front-end
 - 🌱 Faço faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
