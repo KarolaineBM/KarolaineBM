@@ -23,7 +23,7 @@
 ##
 
 <div>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KarolaineBM&show_icons=true&include_all_commits=true&theme=dracula" alt="" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KarolaineBM&show_icons=true&include_all_commits=true&theme=dracula"  />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolaineBM&layout=compact&theme=dracula" />
 </div>
 
