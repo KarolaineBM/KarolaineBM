@@ -1,7 +1,7 @@
 ## Olá!
 
 - 🔭 Hoje trabalhao com front-end
-- 🌱 Faço faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
+- 🌱 Curso Tecnologia em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
