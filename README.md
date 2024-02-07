@@ -56,6 +56,8 @@
   />
 </picture>
 
+Generate a [gif](https://github.com/karolainebm/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/karolainebm/snk/raw/output/github-contribution-grid-snake.svg) image.
+
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
