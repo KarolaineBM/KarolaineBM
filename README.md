@@ -41,7 +41,7 @@
 
 ##
 
-![snake animation](https://github.com/karolainebm/karolainebm/blob/output/github-contribution-grid-snake2.svg)
+##![snake animation](https://github.com/karolainebm/karolainebm/blob/output/github-contribution-grid-snake2.svg)
 
 ##
 
