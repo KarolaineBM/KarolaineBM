@@ -6,7 +6,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=pink) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=3&animation_loop=true&format=svg&weeks=50&theme=pink) 
 
 </div>
 
