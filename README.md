@@ -31,11 +31,10 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/karols.b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:karolainebarrosm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/karolainebarrosm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-   <a href="[https://www.linkedin.com/in/karolainebarrosm](https://ko-fi.com/img/githubbutton_sm.svg)" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://ko-fi.com/F2F110YXAD)" style="border-radius: 30px" target="_blank"></a> 
- 
+<a href="https://instagram.com/karols.b" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>
+<a href = "mailto:karolainebarrosm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 30px"></a>
+<a href="https://www.linkedin.com/in/karolainebarrosm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://ko-fi.com/F2F110YXAD" target="_blank"><img src="https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="border-radius: 30px"></a>
  </div>
 
    
